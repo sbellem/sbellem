@@ -5,7 +5,7 @@
 **sbellem/sbellem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on [Research Directions for Verifiable Crypto-Physically Secure TEEs](https://github.com/sbellem/qtee/blob/main/cryptophysically-secure-tees.pdf)
+- 🔭 I’m currently working on [Research Directions for Verifiable Crypto-Physically Secure TEEs](https://arxiv.org/abs/2410.03183)
 - 🌱 I’m currently learning about hardware security[^1] and open source hardware[^2]
 - 👯 I’m looking to collaborate on open source hardware projects for secure chips
 - 🤔 I’m looking for help with transitioning from software to hardware
