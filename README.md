@@ -23,6 +23,9 @@ Slides: https://hackmd.io/@sbellem/pufpunks#/
 ### Whitepaper
 draft: https://arxiv.org/abs/2410.03183
 
+### Deep dive into the core challenges of secure hardware
+https://github.com/sbellem/qtee
+
 ### Blogposts
 * https://hackmd.io/@sbellem/qtee
 * https://writings.flashbots.net/ZTEE
