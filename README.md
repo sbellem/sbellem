@@ -24,7 +24,8 @@ Slides: https://hackmd.io/@sbellem/pufpunks#/
 draft: https://arxiv.org/abs/2410.03183
 
 ### Deep dive into the core challenges of secure hardware
-https://github.com/sbellem/qtee
+* https://github.com/sbellem/qtee
+* [Can we hide atoms?](https://docs.google.com/presentation/d/1CcVM_0AFCBOpXGiDFtvf2wGz3KBG0EaoxyMXaITEWl0/edit)
 
 ### Blogposts
 * https://hackmd.io/@sbellem/qtee
