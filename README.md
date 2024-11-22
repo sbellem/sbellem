@@ -13,6 +13,22 @@
 - 💬 Ask me about PUFs, physical one-way functions and black holes
 - 📫 How to reach me: sbellem@gmail.com ~ [x.com/sbellem](https://x.com/sbellem) ~ [t.me/gluonix](https:/t.me/gluonix)
 
+## More on secure hardware
+Talk: [qtee: Moving Towards Open Source & Verifiable Secure-through-Physics TEE Chips - Sylvain Bellemare](https://youtu.be/j6pGxMfffdA?si=rJEeSZcpyf6q10TG), given at [TEE.salon @ EthCC Brussels](https://lu.ma/tee.salon), hosted by Flashbots.
+
+The talk was much appreciated by those who attended (e.g. https://x.com/buchmanster/status/1811386013689778315).
+
+Slides: https://hackmd.io/@sbellem/pufpunks#/
+
+### Whitepaper
+draft: https://arxiv.org/abs/2410.03183
+
+### Blogposts
+* https://hackmd.io/@sbellem/qtee
+* https://writings.flashbots.net/ZTEE
+* https://writings.flashbots.net/ZTEE2-Supply-Chains
+
+
 [^1]: PUFs, TRNGs, masking, redundancy, side-channel & fault injection attacks, etc
 [^2]: Open source EDA tools and open source PDKs, etc
 
